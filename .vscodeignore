@@ -11,3 +11,7 @@ CLAUDE.md
 .env.maiass*
 devlog.csv
 *.vsix
+
+# Screenshot sources — referenced by URL in README, not bundled
+samples/**
+images/**
