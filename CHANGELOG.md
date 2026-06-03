@@ -1,6 +1,18 @@
-## 1.0.2
+## 1.0.3
 4 June 2026
 
+- Launched the theme showcase project
+	- Implemented Gallery class for managing artwork
+	- Added async stream method for yielding active artwork
+	- Defined Artwork interface for type safety
+	- Improved readability with constants and template strings
+	- Included initial README documentation for project overview
+	- Added .gitkeep to images directory for version control
+- Set publisher to velvary for marketplace
+- Introduced theme icon and updated vscodeignore
+	- Added 128x128 icon.png (Spirit Gallery logo on dark background)
+	- Wired icon field into package.json
+	- Excluded maiass/claude/local files from the published vsix
 - Updated CLAUDE.md for command consistency
 	Clarified message format and branch model instructions
 - Added brief for AI contributors in CLAUDE.md
