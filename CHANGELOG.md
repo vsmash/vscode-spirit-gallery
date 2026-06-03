@@ -1,3 +1,11 @@
+## 1.0.1
+4 June 2026
+
+- Updated project configuration and documentation
+	Expanded .gitignore to include CLAUDE and MAIASS environment files
+	Enhanced package description for clarity
+- Added repository field to package.json
+
 ## [1.0.0]
 
 ### Added
