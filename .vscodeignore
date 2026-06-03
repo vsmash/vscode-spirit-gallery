@@ -1,5 +1,13 @@
 .vscode/**
 .git/**
 .gitignore
+.gitattributes
 **/*.map
 node_modules/**
+
+# Tooling / local config — must never ship to the marketplace
+.claude/**
+CLAUDE.md
+.env.maiass*
+devlog.csv
+*.vsix
