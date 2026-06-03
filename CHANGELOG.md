@@ -1,6 +1,11 @@
-## 1.0.1
+## 1.0.2
 4 June 2026
 
+- Updated CLAUDE.md for command consistency
+	Clarified message format and branch model instructions
+- Added brief for AI contributors in CLAUDE.md
+	Documented theme layout, color philosophy, and testing
+	Noted that the repository is MAIASS-managed with commit rules
 - Updated project configuration and documentation
 	Expanded .gitignore to include CLAUDE and MAIASS environment files
 	Enhanced package description for clarity
