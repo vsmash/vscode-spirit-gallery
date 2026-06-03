@@ -39,13 +39,13 @@ It has `.env.maiass` and a MAIASS-maintained `CHANGELOG.md`. **Never run
 changelog stays consistent.
 
 - Commit + push current branch (no merge, no version bump):
-  `nma -ac -m "<message>"` (alias for `maiass`; `-ac` auto-stages everything, so
+  `maiass -ac -m "<message>"` (alias for `maiass`; `-ac` auto-stages everything, so
   make sure the tree holds only intended changes).
 - Message format: first line `fix:`/`feat:`/`docs:`/`chore:` summary; optional body
   of indented bullets with NO blank line before them; **never** a `Co-Authored-By`
   trailer (it corrupts the MAIASS changelog).
 - Branch model: `develop` is the working branch, `main` is release.
-- **Do NOT** run `nma -a` (full pipeline: merges to develop + bumps) or version
+- **Do NOT** run `maiass -a` (full pipeline: merges to develop + bumps) or version
   releases (`maiass patch|minor|major`) — those are a human's job.
 
 ## Repo
