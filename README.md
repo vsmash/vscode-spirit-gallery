@@ -8,7 +8,7 @@ in the Argyle Centre, The Rocks, Sydney. Warm charcoal backgrounds with
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/velvary.spirit-theme?color=e8c14a)](https://marketplace.visualstudio.com/items?itemName=velvary.spirit-theme)
 [![Open VSX](https://img.shields.io/open-vsx/v/velvary/spirit-theme?label=Open%20VSX&color=5fd3c4)](https://open-vsx.org/extension/velvary/spirit-theme)
 
-![Spirit Gallery theme](https://raw.githubusercontent.com/vsmash/vscode-spirit-gallery/develop/images/spirit-showcase.png)
+![Spirit Gallery theme](https://raw.githubusercontent.com/vsmash/vscode-spirit-gallery/main/images/spirit-showcase.png)
 
 ## Install
 
