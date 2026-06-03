@@ -1,6 +1,11 @@
-## 1.0.4
+## 1.0.5
 4 June 2026
 
+- Replaced retired shields.io marketplace badges with vsmarketplacebadges.dev
+- Pinned README screenshot to the main branch
+- Rebuilt README as a marketplace page
+	- Added screenshot, install badges, and install instructions
+	- Corrected palette hexes to match desaturated backgrounds
 - Added a spirit showcase image.
 - Launched the theme showcase project
 	- Implemented Gallery class for managing artwork
