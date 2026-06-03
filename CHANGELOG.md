@@ -1,6 +1,7 @@
-## 1.0.3
+## 1.0.4
 4 June 2026
 
+- Added a spirit showcase image.
 - Launched the theme showcase project
 	- Implemented Gallery class for managing artwork
 	- Added async stream method for yielding active artwork
