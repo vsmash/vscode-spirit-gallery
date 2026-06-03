@@ -1,7 +1,3 @@
-# Changelog
-
-All notable changes to the "Spirit Gallery" theme are documented in this file.
-
 ## [1.0.0]
 
 ### Added

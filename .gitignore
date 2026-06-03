@@ -1,3 +1,9 @@
 node_modules/
 *.vsix
 .DS_Store
+
+.claude/
+
+# MAIASS environment files
+.env.maiass.local
+.env.maiass.bak
