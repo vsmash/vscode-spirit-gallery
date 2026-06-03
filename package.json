@@ -1,0 +1,30 @@
+{
+  "name": "spirit-theme",
+  "displayName": "Spirit Gallery",
+  "description": "A dark VS Code theme inspired by Aboriginal art — warm ochre backgrounds with orange, yellow, aqua and silver accents.",
+  "version": "1.0.0",
+  "publisher": "spirit-gallery",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "aboriginal",
+    "ochre",
+    "warm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spirit Gallery",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spirit-color-theme.json"
+      }
+    ]
+  }
+}
