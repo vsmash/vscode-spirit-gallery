@@ -1,6 +1,10 @@
-## 1.0.6
+## 1.0.7
 15 June 2026
 
+- Documented the Rainforest theme in README with showcase and store images
+	- Added Spirit Gallery Rainforest palette table and showcase screenshot
+	- Optimized gallery store photo (2.2MB PNG -> 375KB JPEG)
+	- Updated introduction, installation, and activation for both theme variants
 - Introduced Spirit Gallery Rainforest color theme
 	Defined dark theme colors for editor and UI components
 	Set colors for status bar, activity bar, and terminal
