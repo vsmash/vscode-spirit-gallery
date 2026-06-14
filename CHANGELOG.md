@@ -1,3 +1,10 @@
+## 1.0.6
+15 June 2026
+
+- Introduced Spirit Gallery Rainforest color theme
+	Defined dark theme colors for editor and UI components
+	Set colors for status bar, activity bar, and terminal
+
 ## 1.0.5
 4 June 2026
 
