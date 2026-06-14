@@ -29,6 +29,11 @@
         "label": "Spirit Gallery",
         "uiTheme": "vs-dark",
         "path": "./themes/spirit-color-theme.json"
+      },
+      {
+        "label": "Spirit Gallery Rainforest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spirit-rainforest-color-theme.json"
       }
     ]
   }
