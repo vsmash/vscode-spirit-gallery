@@ -1,7 +1,7 @@
 {
   "name": "spirit-theme",
   "displayName": "Spirit Gallery",
-  "description": "A dark VS Code theme inspired by Aboriginal art featured at Spirit Gallery Store in the Argyle Centre at The Rocks, Sydney — warm ochre backgrounds with orange, yellow, aqua and silver accents.",
+  "description": "VS Code themes inspired by Aboriginal art at the Spirit Gallery Store, the Argyle Centre, The Rocks, Sydney — warm ochre (Spirit Gallery, Rainforest) and Sea Country reef-blues (dark + light), with orange, yellow, aqua and coral accents.",
   "version": "1.0.8",
   "publisher": "velvary",
   "license": "MIT",
@@ -17,11 +17,16 @@
     "Themes"
   ],
   "keywords": [
-    "dark",
     "theme",
     "aboriginal",
     "ochre",
-    "warm"
+    "warm",
+    "dark",
+    "light",
+    "reef",
+    "aqua",
+    "sea country",
+    "ocean"
   ],
   "contributes": {
     "themes": [
@@ -34,6 +39,16 @@
         "label": "Spirit Gallery Rainforest",
         "uiTheme": "vs-dark",
         "path": "./themes/spirit-rainforest-color-theme.json"
+      },
+      {
+        "label": "Spirit Gallery Sea Country",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spirit-sea-country-color-theme.json"
+      },
+      {
+        "label": "Spirit Gallery Sea Country Light",
+        "uiTheme": "vs",
+        "path": "./themes/spirit-sea-country-light-color-theme.json"
       }
     ]
   }

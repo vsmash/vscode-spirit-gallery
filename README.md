@@ -1,10 +1,12 @@
 # Spirit Gallery — VS Code Theme
 
-A pair of dark themes inspired by Aboriginal art, as featured at the Spirit
+A family of themes inspired by Aboriginal art, as featured at the Spirit
 Gallery Store in the Argyle Centre, The Rocks, Sydney:
 
 - **Spirit Gallery** — warm charcoal backgrounds with **orange**, **gold**, **aqua** and **silver** accents.
 - **Spirit Gallery Rainforest** — deep green backgrounds dominated by **green**, highlighted with **aqua**, **lime** and **yellow**.
+- **Spirit Gallery Sea Country** — deep-ocean backgrounds with a **turquoise** signature, plus **ocean-blue**, **seagrass green** and **coral** reef pops.
+- **Spirit Gallery Sea Country Light** — the same reef palette on a **pale aqua-blue** canvas (the extension's first light theme).
 
 [![VS Marketplace](https://vsmarketplacebadges.dev/version-short/velvary.spirit-theme.svg?label=VS%20Marketplace&color=d9622e)](https://marketplace.visualstudio.com/items?itemName=velvary.spirit-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs-short/velvary.spirit-theme.svg?label=installs&color=e8c14a)](https://marketplace.visualstudio.com/items?itemName=velvary.spirit-theme)
@@ -18,6 +20,14 @@ Gallery Store in the Argyle Centre, The Rocks, Sydney:
 
 ![Spirit Gallery Rainforest theme](https://raw.githubusercontent.com/vsmash/vscode-spirit-gallery/main/images/spirit-rainforest-showcase.png)
 
+### Spirit Gallery Sea Country
+
+![Spirit Gallery Sea Country theme](https://raw.githubusercontent.com/vsmash/vscode-spirit-gallery/main/images/sea-country-dark.png)
+
+### Spirit Gallery Sea Country Light
+
+![Spirit Gallery Sea Country Light theme](https://raw.githubusercontent.com/vsmash/vscode-spirit-gallery/main/images/sea-country-light.png)
+
 ## Install
 
 **In VS Code:** open Quick Open (`Cmd/Ctrl+P`), paste and run:
@@ -27,7 +37,7 @@ ext install velvary.spirit-theme
 ```
 
 Or search **"Spirit Gallery"** in the Extensions panel. Then pick a variant with
-`Cmd/Ctrl+K Cmd/Ctrl+T` → **Spirit Gallery** or **Spirit Gallery Rainforest**.
+`Cmd/Ctrl+K Cmd/Ctrl+T` → **Spirit Gallery**, **Spirit Gallery Rainforest**, **Spirit Gallery Sea Country** or **Spirit Gallery Sea Country Light**.
 
 Also available on [Open VSX](https://open-vsx.org/extension/velvary/spirit-theme)
 for VSCodium, Cursor, Windsurf and Gitpod.
@@ -63,6 +73,38 @@ for VSCodium, Cursor, Windsurf and Gitpod.
 | Numbers / constants / decorators | yellow | `#e3d24a` |
 | Properties | soft aqua | `#8fdccb` |
 | Error | warm red | `#e0664d` |
+
+### Spirit Gallery Sea Country
+
+| Role | Colour | Hex |
+|------|--------|-----|
+| Background (editor) | deep ocean | `#0a1a24` |
+| Background (chrome) | abyss | `#071219` |
+| Foreground | sea foam | `#c8dfe8` |
+| Keywords / tags / cursor | turquoise | `#2ec6d8` |
+| Functions | ocean blue | `#55b3f2` |
+| Strings | seagrass | `#4fd6a0` |
+| Escapes / links / active | foam cyan | `#6fe8dc` |
+| Types / attributes | coral | `#ff8266` |
+| Numbers / constants / decorators | sunlit gold | `#ffce5c` |
+| Properties | soft aqua | `#7fdcd0` |
+| Error | reef red | `#ff6b5c` |
+
+### Spirit Gallery Sea Country Light
+
+| Role | Colour | Hex |
+|------|--------|-----|
+| Background (editor) | pale aqua-blue | `#e4f3f9` |
+| Background (chrome) | shallows | `#d3ebf3` |
+| Foreground | deep sea ink | `#133b47` |
+| Keywords / tags | deep turquoise | `#0d8f9c` |
+| Functions / links | ocean blue | `#2072c0` |
+| Strings | reef green | `#1f9d6b` |
+| Escapes | teal | `#0aa0a8` |
+| Types / attributes | coral | `#cf5236` |
+| Numbers / constants | amber | `#b07a12` |
+| Properties | teal | `#0b8290` |
+| Error | red | `#c8382a` |
 
 ## The gallery
 
