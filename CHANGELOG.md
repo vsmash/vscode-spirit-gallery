@@ -1,3 +1,12 @@
+## 1.0.9
+1 July 2026
+
+- Updated README and package for new themes
+	Updated the themes section to reflect a family of themes inspired by Aboriginal art.
+	Added "Spirit Gallery Sea Country" and "Spirit Gallery Sea Country Light" themes with descriptions and images.
+	Updated package.json description and keywords to include new themes.
+	Included images for the new themes in the repository.
+
 ## 1.0.7
 15 June 2026
 
